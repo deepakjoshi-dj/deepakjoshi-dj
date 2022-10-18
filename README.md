@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepakjoshi-dj
 - 👀 I’m interested in Full stack web developer, blockchain technology, git hub, linux, python
-- 🌱 I’m currently learning full stack web development using javascript and python.
-- 💞️ I’m looking to collaborate on software development
+- 🌱 I’m currently learning front end development using html, css, javascript, bootstarp, jquery, and sass.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 you can contact me on email: dpkjoshi656.dj@gmail.com
 
 <!---
